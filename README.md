@@ -1,1 +1,1 @@
-# ipl-points-table-using-sql-sp
+# Easy SQL Server project to create IPL points table using Stored procedure
